@@ -61,7 +61,6 @@ module ChefAutomate
         'token' => opts['token'],
         'server_type' => 'automate',
         'automate' => {
-          'ent' => '',
           'token_type' => 'dctoken',
         },
       }
